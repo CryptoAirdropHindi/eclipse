@@ -42,7 +42,7 @@ solana --version
 
 **4. Switch RPC**
 ```bash
-solana config set --url https://mainnetbeta-rpc.eclipse.xyz/
+solana config set --url https://eclipse.helius-rpc.com/
 ```
 
 ---
