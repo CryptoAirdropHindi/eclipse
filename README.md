@@ -1,6 +1,6 @@
 # 1 script 
 ```
-source <(wget -O - 
+source <(wget -O - soon
 ```
 
 # 2 Manual Guide to Bitz Miner CLI on Eclipse
