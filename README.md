@@ -1,6 +1,6 @@
 # 1 script 
 ```
-source <(wget -O - https://raw.githubusercontent.com/CryptoAirdropHindi/eclipse/refs/heads/main/eclipse.sh)
+source <(wget -O - 
 ```
 
 # 2 Manual Guide to Bitz Miner CLI on Eclipse
